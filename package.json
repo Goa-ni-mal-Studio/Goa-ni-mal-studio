@@ -1,0 +1,19 @@
+{
+  "name": "goa-ni-mal-studio",
+  "version": "1.0.0",
+  "description": "mi̠ te ɣɔw kɛ mal, bi̠ gat ran cieŋ kɛ mal ɛ thiɛlɛ riɛk kiɛ mi̠ ŋɔ̱ɔ̱ŋ jɛ wi̠i̠muɔ̱ɔ̱n, kɛ kui̠c ɛ mɔ, gɔa ni̠ mal bɛɛ ruaacni̠ teekä kɛ kui̠i̠ gɔɔyä nuääri̠ tɔ̱w, kä bɛ naath nöŋ tëk mi̠ bi̠ te thi̠n kɛ gua̱a̱th ɛn bëë.  Gɔa ni̠ mal, peace mean freedom from disturbance; tranquility etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goa-ni-mal-Studio/Goa-ni-mal-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goa-ni-mal-Studio/Goa-ni-mal-studio/issues"
+  },
+  "homepage": "https://github.com/Goa-ni-mal-Studio/Goa-ni-mal-studio#readme"
+}
